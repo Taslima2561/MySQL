@@ -1,0 +1,2 @@
+SELECT UPPER (city) AS city_NEW_NAME
+From student_details:
